@@ -1,0 +1,19 @@
+---
+title: "Areas"
+author: "Manuel Giner Flores"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+```{r}
+r <- 0.5
+Area <- pi * r^2
+```
+
+
